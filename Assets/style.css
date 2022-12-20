@@ -24,6 +24,8 @@ header {
     color: #d9dcd6;
 }
 
+/*changed the class name to nav*/
+
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +52,7 @@ p {
     font-size: 16px;
 }
 
+/*removed the image link and put it in html*/
 .hero {
     height: 800px;
     width: 100%;
@@ -85,6 +88,7 @@ p {
     background-color: #2589bd;
 }
 
+/* made class benefit-title in the aside section to consolidate all the styling*/
 .benefit-title {
     margin-bottom: 32px;
     color: #ffffff;
@@ -103,6 +107,7 @@ p {
     max-width: 150px;
 }
 
+/*made content images class to consolidate all content images within main*/
 .content-images {
     margin-bottom: 20px;
     padding: 50px;
